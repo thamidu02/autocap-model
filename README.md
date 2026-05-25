@@ -648,13 +648,6 @@ AutoCap/
 
 The implemented models demonstrated strong caption generation performance.
 
-## Example Results
-
-| Metric | Score  |
-| ------ | ------ |
-| BLEU-1 | 0.9282 |
-| BLEU-4 | 0.8313 |
-| CIDEr  | 2.5338 |
 
 ## Observations
 
