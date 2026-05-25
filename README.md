@@ -1,5 +1,7 @@
 # AutoCap: Modular Multimodal Image Captioning and Dataset Generation Platform
 
+![Overview](Assets/overview.png)
+
 ## Overview
 
 AutoCap is a research-oriented multimodal AI platform designed for automatic image caption generation, dataset construction, and scalable experimentation with modern vision-language architectures. The project was developed as both an academic and engineering effort focused on understanding and implementing state-of-the-art concepts in Computer Vision, Natural Language Processing (NLP), Deep Learning, and Multimodal AI systems.
